@@ -1,6 +1,6 @@
 # Mods-1.21.1
 
-## The best FPS shaderpack
+## The best FPS shader optimiser
 
 - Declutter shaderpacks to increase FPS on low-end devices.
 - Removes excess calls to GLInstance.RayTraceEx().
